@@ -1,0 +1,13 @@
+unit EnderecoDTO;
+
+interface
+uses
+ model.Endereco;
+Type
+ TEnderecoDTO = class(TEndereco)
+
+ end;
+
+implementation
+
+end.
